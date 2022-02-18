@@ -10,5 +10,5 @@ Fork and add your plugins to [PyroBot/plugins](./PyroBot/plugins), and, thats it
 
 # Credits
 - [Pyrogram.](https://github.com/pyrogram/pyrogram)
-- [Xditya](https://t.me/xditya)
-- [Me](https://t.me/DavidCordona)
+- [Xditya](https://t.me/xditya) for giving such idea
+- [Me](https://t.me/DavidCordona) 🌚
