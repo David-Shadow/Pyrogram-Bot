@@ -7,7 +7,7 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, CallbackQuery
 from pyrogram.errors import FloodWait
 
-from config import LOG_CHAT, ADMINS
+from config import ADMINS
 
 #################### Start Message #################### 
 @Client.on_message(filters.command(["start"]) & filters.private &~ filters.edited)
