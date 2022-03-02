@@ -41,7 +41,7 @@ async def upload_logs(bot, cmd):
 #################### Help Command ####################
 @Client.on_message(filters.command(["help"]) & filters.private &~ filters.edited)
 async def help_cmd(bot, cmd):
-    txt = 'All available commands are:
+    txt = 'All available commands are:'
     txt += '\n/start - start the bot'
     txt += '\n/logs, /log - [only for ADMINS]'
     txt += '\n/help - get this message'
